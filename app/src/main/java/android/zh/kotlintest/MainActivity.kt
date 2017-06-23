@@ -18,5 +18,8 @@ class MainActivity : AppCompatActivity() {
     fun feature2(){
         println("hello222")
     }
+    fun feature3(){
+        println("hello3333333")
+    }
 
 }
