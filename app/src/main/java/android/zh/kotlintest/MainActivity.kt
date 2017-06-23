@@ -12,4 +12,8 @@ class MainActivity : AppCompatActivity() {
         main_tv_message.text = "Hello Kotlin!"
         main_tv_message.textSize = 20.0f
     }
+    fun feature1(){
+        println("hello")
+    }
+
 }
